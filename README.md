@@ -1,8 +1,6 @@
 
 ---
 
-# 📌 `qr-frontend/README.md`
-
 # QR Frontend
 
 This is the mobile app frontend for the QR project.  
